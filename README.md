@@ -77,7 +77,7 @@ Tritt unserer offiziellen Community bei oder kontaktiere uns direkt:
 
 * 🎮 **Offizieller Discord-Server:** [![Discord](https://img.shields.io/badge/Discord-Capo_Studio_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Tp3aMY8Gp8)  
   *(Hier erhältst du den schnellsten Live-Support direkt vom Entwickler!)*
-* 📧 **E-Mail Support:** [capostudio.help@gmail.com](mailto:capostudio.official@gmail.com)
+* 📧 **E-Mail Support:** [capostudio.official@gmail.com](mailto:capostudio.official@gmail.com)
 * 🏢 **Entwickler & Herausgeber:** Capo Studio
 
 <div align="center">
