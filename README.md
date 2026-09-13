@@ -70,7 +70,7 @@
    Format: CS-PRO-XXXX-XXXX-XXXX-XXXX
 ---
 
-*💻 Systemanforderungen
+💻 Systemanforderungen
 
 *🪟 Betriebssystem: Windows 10 oder Windows 11 (64-Bit)
 
