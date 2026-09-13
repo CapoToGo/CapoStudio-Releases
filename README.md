@@ -69,7 +69,17 @@
    ```text
    Format: CS-PRO-XXXX-XXXX-XXXX-XXXX
 ---
-
+💻 Systemanforderungen
+Anforderung	Mindestvoraussetzung	Empfohlen
+Betriebssystem	Windows 10 (64-Bit)	Windows 11 (64-Bit)
+Prozessor	Dual-Core 1.6 GHz	Quad-Core 2.4 GHz oder schneller
+Arbeitsspeicher (RAM)	2 GB RAM	4 GB RAM oder mehr
+Speicherplatz	ca. 80 MB freier Speicher	SSD
+Berechtigung	Administrator-Rechte	Administrator-Rechte
+🛡️ Sicherheit & Datenschutz
+Kein Tracking von Nutzerdaten: Deine persönlichen Daten und Dateinamen verlassen niemals deinen PC.
+Sichere Cloud-Validierung: Hardware-Bindung (HWID) schützt deinen Lizenzschlüssel vor unbefugter Nutzung durch Dritte.
+100 % Viren- & Malware-Frei: Sauber kompiliert, geschützt und optimiert.
 ## 💬 Support & Community
 
 Hast du Fragen, Feature-Wünsche oder benötigst du Hilfe bei der Aktivierung?  
