@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 🚀 Capo Studio Deep Uninstaller PRO
@@ -7,14 +6,13 @@
 ![Version](https://img.shields.io/badge/Version-1.1.0_PRO-00F2FE?style=for-the-badge&logo=windows)
 ![Plattform](https://img.shields.io/badge/Windows-10_%7C_11_(64--Bit)-4FACFE?style=for-the-badge&logo=windows11)
 ![Lizenz](https://img.shields.io/badge/Lizenz-Lifetime_PRO-FF007F?style=for-the-badge)
-![Discord](https://img.shields.io/badge/Discord-Community_Support-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Status](https://img.shields.io/badge/Release-Stable-00E676?style=for-the-badge)
 
 <p align="center">
   <b>Befreie dein Windows-System restlos von verwaisten Datenmüll-Resten, blockierten Registry-Einträgen und ressourcenhungriger Software.</b>
 </p>
 
-[📥 Aktuelles Release herunterladen (v1.1.0)](https://github.com/CapoToGo/CapoStudio-Releases/releases/latest) • [✨ Features](#-hauptfunktionen) • [📋 Changelog](#-was-ist-neu-in-version-110) • [🔑 Aktivierung](#-installation--aktivierung) • [💬 Support](#-support--community)
+[📥 Aktuelles Release herunterladen (v1.1.0)](https://github.com/CapoToGo/CapoStudio-Releases/releases/latest) • [✨ Features](#-hauptfunktionen) • [📋 Changelog](#-was-ist-neu-in-version-110) • [🔑 Aktivierung](#-installation--aktivierung) • [💬 Support](#-support--kontakt)
 
 ---
 
@@ -40,7 +38,7 @@
 
 ### 📐 3. Synchrones Studio-Grid & Intuitiver Resizer
 * **Star-Sizing:** Dynamische Breitenverteilung füllt den gesamten Bildschirm perfekt aus – keine leeren Felder beim Maximieren.
-* **Beidseitiger Spalten-Resizer:** Spalten lassen sich an beiden Kanten intuitiv und stufenlos anpassen.
+* **Beidseitiger Spalten-Resizer:** Spalten lassen sich an beiden Kanten intuitiv anpassen.
 * **Kollisionsschutz:** Feste Mindestbreiten verhindern das Abschneiden von Inhalten oder Buttons.
 
 ### ⚡ 4. 100 % Portable Single-File EXE
@@ -70,29 +68,6 @@
 4. Gib deinen persönlichen Lizenzschlüssel ein:
    ```text
    Format: CS-PRO-XXXX-XXXX-XXXX-XXXX
-   ```
-5. Die Freischaltung erfolgt in Sekundenschnelle online über die gesicherte Capo Studio Cloud!
-
----
-
-## 💻 Systemanforderungen
-
-| Anforderung | Mindestvoraussetzung | Empfohlen |
-| :--- | :--- | :--- |
-| **Betriebssystem** | Windows 10 (64-Bit) | Windows 11 (64-Bit) |
-| **Prozessor** | Dual-Core 1.6 GHz | Quad-Core 2.4 GHz oder schneller |
-| **Arbeitsspeicher (RAM)** | 2 GB RAM | 4 GB RAM oder mehr |
-| **Speicherplatz** | ca. 80 MB freier Speicher | SSD |
-| **Berechtigung** | Administrator-Rechte | Administrator-Rechte |
-
----
-
-## 🛡️ Sicherheit & Datenschutz
-
-* **Kein Tracking von Nutzerdaten:** Deine persönlichen Daten und Dateinamen verlassen niemals deinen PC.
-* **Sichere Cloud-Validierung:** Hardware-Bindung (HWID) schützt deinen Lizenzschlüssel vor unbefugter Nutzung durch Dritte.
-* **100 % Viren- & Malware-Frei:** Sauber kompiliert, geschützt und optimiert.
-
 ---
 
 ## 💬 Support & Community
@@ -108,4 +83,10 @@ Tritt unserer offiziellen Community bei oder kontaktiere uns direkt:
 <div align="center">
   <sub>Copyright © 2026 Capo Studio. Alle Rechte vorbehalten.</sub>
 </div>
-```
+
+
+hier mach mir das neu vollständig und ohne fehler 
+
+capostudio.official@gmail.com
+
+ist meine email adresse die neue
