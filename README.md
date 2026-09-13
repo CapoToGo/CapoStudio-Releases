@@ -69,17 +69,21 @@
    ```text
    Format: CS-PRO-XXXX-XXXX-XXXX-XXXX
 ---
+
 💻 Systemanforderungen
-Anforderung	Mindestvoraussetzung	Empfohlen
-Betriebssystem	Windows 10 (64-Bit)	Windows 11 (64-Bit)
-Prozessor	Dual-Core 1.6 GHz	Quad-Core 2.4 GHz oder schneller
-Arbeitsspeicher (RAM)	2 GB RAM	4 GB RAM oder mehr
-Speicherplatz	ca. 80 MB freier Speicher	SSD
-Berechtigung	Administrator-Rechte	Administrator-Rechte
+🪟 Betriebssystem: Windows 10 oder Windows 11 (64-Bit)
+⚡ Prozessor: Dual-Core 1.6 GHz oder schneller (Empfohlen: Quad-Core 2.4 GHz)
+🧠 Arbeitsspeicher (RAM): Mindestens 2 GB RAM (Empfohlen: 4 GB oder mehr)
+💾 Speicherplatz: ca. 80 MB freier Festplattenspeicher (SSD empfohlen)
+🛡️ Rechte: Administrator-Berechtigung zur sauberen Tiefenbereinigung
 🛡️ Sicherheit & Datenschutz
-Kein Tracking von Nutzerdaten: Deine persönlichen Daten und Dateinamen verlassen niemals deinen PC.
-Sichere Cloud-Validierung: Hardware-Bindung (HWID) schützt deinen Lizenzschlüssel vor unbefugter Nutzung durch Dritte.
-100 % Viren- & Malware-Frei: Sauber kompiliert, geschützt und optimiert.
+🔒 100 % Privatsphäre: Keine Übertragung privater Nutzerdaten – alle Scans laufen lokal auf deinem Rechner.
+☁️ Sichere Cloud-Aktivierung: Hardware-Bindung (HWID) schützt deinen persönlichen Lizenzschlüssel vor Missbrauch.
+🛡️ Sicherheits-Garantie: Integrierte Registry-Sicherungen vor jedem Löschvorgang.
+✅ Viren- & Malwarefrei: Sauber kompiliert, verschlüsselt und optimiert.
+
+---
+
 ## 💬 Support & Community
 
 Hast du Fragen, Feature-Wünsche oder benötigst du Hilfe bei der Aktivierung?  
@@ -93,10 +97,3 @@ Tritt unserer offiziellen Community bei oder kontaktiere uns direkt:
 <div align="center">
   <sub>Copyright © 2026 Capo Studio. Alle Rechte vorbehalten.</sub>
 </div>
-
-
-hier mach mir das neu vollständig und ohne fehler 
-
-capostudio.official@gmail.com
-
-ist meine email adresse die neue
