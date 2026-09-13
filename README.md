@@ -60,12 +60,15 @@
 ---
 
 ## 🔑 Installation & Aktivierung
-
+> [!TIP]
+> **Noch keinen Lizenzschlüssel?**  
+> Hol dir deine persönliche Lifetime-Lizenz direkt im offiziellen Store:  
+> 👉 [**Hier PRO Lifetime Lizenz auf Gumroad kaufen**](https://capostudio.gumroad.com/l/deep-uninstaller)
 1. Lade das offizielle Release-Paket herunter:  
    👉 **`CapoStudioDeepUninstaller_v1.1.0_PRO.zip`** (oder die direkte `.exe`)
 2. Entpacke das ZIP-Archiv an einen beliebigen Ort (z. B. Desktop oder USB-Stick).
 3. Starte **`CapoStudioDeepUninstaller.exe`** als Administrator.
-4. Gib deinen persönlichen Lizenzschlüssel ein:
+4. Gib deinen Namen und deinen persönlichen Lizenzschlüssel ein:
    ```text
    Format: CS-PRO-XXXX-XXXX-XXXX-XXXX
 ---
